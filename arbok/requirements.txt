@@ -1,0 +1,16 @@
+git+https://git.enova.com/analytics/EBS_DueDate_Scheduler.git@master#egg=EBS_DueDate_Scheduler
+git+https://git.enova.com/analytics-toolbox/cats-utils@main#egg=cats_utils
+git+https://git.enova.com/analytics-toolbox/instrumentation.git@master#egg=instrumentation
+numpy==1.17.2
+pandas==0.25.1
+passlib==1.7.1
+pgpasslib==1.1.0
+pre-commit==2.7.1
+psutil==5.7.0
+psycopg2-binary==2.8.5
+pytest==6.1.0
+pytest-spec==2.0.0
+python-dotenv==0.11.0
+PyYAML==5.3.1
+requests==2.22.0
+zipp==3.1.0
