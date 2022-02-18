@@ -1,3 +1,4 @@
+# Arbok Wrapper
 This is a decorator (wrapper function) for Colossus models (Colossus as in the analytics engine, not Mathematica). This wrapper will be used as a way to standardize how input data is received, modified, logged and monitored. This will be used for all models to ensure all models have the same input and output structure. Any new or existing models will have to add this to their file, usually this will be in an init file.
 
 Installation To install you can do as follows:
